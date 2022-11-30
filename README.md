@@ -1,4 +1,5 @@
-# Laboratorio 4 - Visual Analytics
+# Laboratorio 4 - Visual Analytics
+
 ESAI.
 
 Elaborado por María Gabriela Torres y María Sofía Álvarez López.
